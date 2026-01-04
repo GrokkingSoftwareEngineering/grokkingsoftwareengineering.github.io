@@ -2,6 +2,8 @@
 
 Welcome to **Engineering Foundations** — a long-form, anti-brain-rot learning path for serious software engineering study. The goal is depth, clarity, and durable understanding rather than quick tips.
 
+Created and maintained by [Siddhardha Tagirisa](https://www.linkedin.com/in/siddhardha-tagirisa/) ([My GitHub](http://github.com/sidtagirisa/)).
+
 ## Mission
 
 Short-form content optimizes for attention, not comprehension. This project exists to rebuild the fundamentals with thorough explanations, real context, and a structured path from basics to advanced topics.
