@@ -12,22 +12,22 @@ Engineering Foundations provides deep, long-form technical content to combat the
 
 ## Content Structure
 
-Our **comprehensive topics** are organized into progressive parts:
+Our **comprehensive topics** follow the Computer Science roadmap progression:
 
-1. **Computer Science Fundamentals** - Core concepts, data representation, discrete math, complexity
-2. **Data Structures & Algorithms** - Structures, algorithms, and classic problem patterns
-3. **Computer Systems** - Operating systems, concurrency, memory management
-4. **Networking** - Models, protocols, and network programming
-5. **Databases** - Data modeling, transactions, indexing, scaling
-6. **Software Development** - Clean code, OOP, patterns, UML, testing, reviews
-7. **Web Development** - Backend, frontend, API design, real-time, security, performance
-8. **System Design & Architecture** - Scalable systems, distributed systems, CAP/PACELC
-9. **DevOps & Infrastructure** - Version control, CI/CD, containers, cloud, monitoring
-10. **Security** - Security fundamentals and cryptography
-11. **Professional Development** - Career progression from junior to senior engineer
-12. **Industry Practices** - Agile, documentation, open source, technical communication
-13. **Specialized Domains** - Data engineering, enterprise integration, compliance
-14. **Advanced Topics** - Enterprise patterns and advanced system design
+1. **Programming Basics** - Baseline programming literacy
+2. **Data Structures** - Core containers and structures
+3. **Asymptotic Notation** - Complexity analysis fundamentals
+4. **Common Algorithms** - Sorting, searching, graph algorithms, classic problems
+5. **String Search & Data Representation** - Text algorithms and low-level encoding details
+6. **Design Patterns & Architecture** - Patterns, architectural styles, UML
+7. **Basic Math Skills** - Discrete math and mathematical foundations
+8. **Complexity Classes** - P, NP, NP-hard, NP-complete
+9. **Networking** - Models, protocols, and network programming
+10. **Databases** - Data modeling, indexing, transactions, scaling
+11. **System Design** - Scalability, caching, distributed systems, API design
+12. **Security** - Security fundamentals and cryptography
+13. **How Computers Work** - CPU execution, memory, OS, concurrency
+14. **Real-Time Communication** - Polling, SSE, WebSockets
 
 ## Technology Stack
 
