@@ -4,7 +4,448 @@
 
 <instance-profile id="ef"
                  name="Engineering Foundations"
-                  status="release">
+                 status="release"
+                 start-page="Home.md">
+
+    <toc-element toc-title="Home" topic="Home.md"/>
+    <toc-element toc-title="Computer Science" topic="Computer-Science.md">
+        <toc-element toc-title="Data Structures" topic="Data-Structures.md"/>
+        <toc-element toc-title="Common Algorithms" topic="Common-Algorithms.md">
+            <toc-element toc-title="Sorting" topic="sorting.md"/>
+            <toc-element toc-title="Searching" topic="searching.md"/>
+            <toc-element toc-title="Tree" topic="Tree-Algorithms.md">
+                <toc-element toc-title="Post Order Traversal" topic="post-order-traversal.md"/>
+            </toc-element>
+            <toc-element toc-title="Graphs" topic="graphs.md">
+                <toc-element toc-title="Bellman Ford&apos;s Algorithm" topic="bellman-ford-s-algorithm.md"/>
+            </toc-element>
+            <toc-element toc-title="Back Tracking" topic="back-tracking.md">
+                <toc-element toc-title="Finding Hamiltonian Paths" topic="finding-hamiltonian-paths.md"/>
+                <toc-element toc-title="Solving N Queen Problem" topic="solving-n-queen-problem.md"/>
+                <toc-element toc-title="Maze Solving Problem" topic="maze-solving-problem.md"/>
+                <toc-element toc-title="The Knight&apos;s Tour Problem" topic="the-knight-s-tour-problem.md"/>
+                <toc-element toc-title="Rabin-Karp Algorithm" topic="rabin-karp-algorithm.md"/>
+            </toc-element>
+            <toc-element toc-title="Caches" topic="caches.md">
+                <toc-element toc-title="MFU Cache" topic="mfu-cache.md"/>
+                <toc-element toc-title="LRU Cache" topic="lru-cache.md"/>
+                <toc-element toc-title="LFU Cache" topic="lfu-cache.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Endianess" topic="endianess.md">
+            <toc-element toc-title="Big Endian" topic="big-endian.md"/>
+            <toc-element toc-title="Little Endian" topic="little-endian.md"/>
+        </toc-element>
+        <toc-element toc-title="Floating Point Math" topic="Floating-Point-Math.md"/>
+        <toc-element toc-title="String Search &amp; Manipulations" topic="String-Search-and-Manipulations.md">
+            <toc-element toc-title="Search Pattern in Text" topic="search-pattern-in-text.md"/>
+            <toc-element toc-title="Substring Search" topic="substring-search.md"/>
+            <toc-element toc-title="Brute Force Search" topic="brute-force-search.md"/>
+            <toc-element toc-title="Robin-Karp" topic="robin-karp.md"/>
+            <toc-element toc-title="Knuth-Morris Pratt" topic="knuth-morris-pratt.md"/>
+            <toc-element toc-title="Boyer-Moore" topic="boyer-moore.md"/>
+            <toc-element toc-title="Suffix Arrays" topic="suffix-arrays.md"/>
+        </toc-element>
+        <toc-element toc-title="Character Encodings" topic="Character-Encodings.md">
+            <toc-element toc-title="Unicode" topic="unicode.md"/>
+            <toc-element toc-title="ASCII" topic="ascii.md"/>
+        </toc-element>
+        <toc-element toc-title="Bitwise Operators" topic="Bitwise-Operators.md"/>
+        <toc-element toc-title="Common UML Diagrams" topic="Common-UML-Diagrams.md">
+            <toc-element toc-title="Class Diagrams" topic="class-diagrams.md"/>
+            <toc-element toc-title="Usecase Diagrams" topic="usecase-diagrams.md"/>
+            <toc-element toc-title="Activity Diagrams" topic="activity-diagrams.md"/>
+            <toc-element toc-title="Statemachine Diagrams" topic="statemachine-diagrams.md"/>
+            <toc-element toc-title="Sequence Diagrams" topic="sequence-diagrams.md"/>
+        </toc-element>
+        <toc-element toc-title="Design Patterns" topic="Design-Patterns.md">
+            <toc-element toc-title="GoF Design Patterns" topic="gof-design-patterns.md"/>
+            <toc-element toc-title="Architectural Patterns" topic="architectural-patterns.md"/>
+            <toc-element toc-title="Dependency Injection" topic="dependency-injection.md"/>
+            <toc-element toc-title="Null Object Pattern" topic="null-object-pattern.md"/>
+            <toc-element toc-title="Type Object Pattern" topic="type-object-pattern.md"/>
+        </toc-element>
+        <toc-element toc-title="Basic Math Skills" topic="Basic-Math-Skills.md">
+            <toc-element toc-title="Probability" topic="probability.md"/>
+            <toc-element toc-title="Combinatorics" topic="combinatorics.md"/>
+        </toc-element>
+        <toc-element toc-title="Complexity Classes" topic="Complexity-Classes.md">
+            <toc-element toc-title="P" topic="p.md"/>
+            <toc-element toc-title="NP" topic="np.md"/>
+            <toc-element toc-title="P = NP" topic="P-NP.md"/>
+            <toc-element toc-title="Co-NP" topic="Co-NP.md"/>
+            <toc-element toc-title="NP Hard" topic="NP-Hard.md"/>
+            <toc-element toc-title="NP Complete" topic="NP-Complete.md">
+                <toc-element toc-title="Travelling Salesman Problem" topic="travelling-salesman-problem.md"/>
+                <toc-element toc-title="Knapsack Problem" topic="knapsack-problem.md"/>
+                <toc-element toc-title="Longest Path Problem" topic="longest-path-problem.md"/>
+            </toc-element>
+            <toc-element toc-title="Tries" topic="tries.md"/>
+        </toc-element>
+        <toc-element toc-title="Databases" topic="databases.md">
+            <toc-element toc-title="SQL vs NoSQL Databases" topic="SQL-vs-NoSQL-Databases.md"/>
+            <toc-element toc-title="Normalization / Denormalization" topic="Normalization-Denormalization.md"/>
+            <toc-element toc-title="Entity-Relationship Model" topic="Entity-Relationship-Model.md"/>
+            <toc-element toc-title="DDL" topic="ddl.md"/>
+            <toc-element toc-title="DML" topic="dml.md"/>
+            <toc-element toc-title="DQL" topic="dql.md"/>
+            <toc-element toc-title="DCL" topic="dcl.md"/>
+            <toc-element toc-title="Locking" topic="locking.md"/>
+            <toc-element toc-title="ACID Model" topic="ACID-Model.md"/>
+            <toc-element toc-title="BASE" topic="base.md"/>
+            <toc-element toc-title="CAP Theorem" topic="CAP-Theorem-Databases.md"/>
+            <toc-element toc-title="PACELC" topic="pacelc.md"/>
+            <toc-element toc-title="Indexes" topic="indexes.md"/>
+            <toc-element toc-title="Views" topic="views.md"/>
+            <toc-element toc-title="Transactions" topic="transactions.md"/>
+            <toc-element toc-title="Stored Procedures" topic="Stored-Procedures.md"/>
+            <toc-element toc-title="Database Federation" topic="Database-Federation.md"/>
+            <toc-element toc-title="Replication" topic="replication.md"/>
+            <toc-element toc-title="Sharding" topic="sharding.md"/>
+        </toc-element>
+        <toc-element toc-title="Balanced Search Trees" topic="Balanced-Search-Trees.md">
+            <toc-element toc-title="Red / Black Trees" topic="Red-Black-Trees.md"/>
+            <toc-element toc-title="2 3 Search Trees" topic="2-3-Search-Trees.md"/>
+            <toc-element toc-title="2 3 4 Trees" topic="2-3-4-Trees.md"/>
+            <toc-element toc-title="K-ary / M-ary Tree" topic="K-ary-M-ary-Tree.md"/>
+            <toc-element toc-title="B-Tree" topic="b-tree.md"/>
+            <toc-element toc-title="K-D Trees" topic="K-D-Trees.md"/>
+            <toc-element toc-title="Skip Lists" topic="Skip-Lists.md"/>
+        </toc-element>
+        <toc-element toc-title="Networking" topic="networking.md">
+            <toc-element toc-title="OSI Model" topic="OSI-Model.md"/>
+            <toc-element toc-title="TCP/IP Model" topic="TCP-IP-Model.md"/>
+            <toc-element toc-title="DNS" topic="dns.md"/>
+            <toc-element toc-title="HTTP" topic="http.md"/>
+            <toc-element toc-title="TLS &amp; HTTPS" topic="TLS-and-HTTPS.md"/>
+            <toc-element toc-title="Sockets" topic="sockets.md"/>
+        </toc-element>
+        <toc-element toc-title="Security" topic="security.md">
+            <toc-element toc-title="Hashing / Encryption / Encoding" topic="Hashing-Encryption-Encoding.md"/>
+            <toc-element toc-title="Public Key Cryptography" topic="Public-Key-Cryptography.md"/>
+            <toc-element toc-title="Hashing Algorithms" topic="Hashing-Algorithms.md"/>
+            <toc-element toc-title="OWASP Top 10" topic="OWASP-Top-10.md"/>
+        </toc-element>
+        <toc-element toc-title="How Computers Work" topic="How-Computers-Work.md">
+            <toc-element toc-title="How CPU Executes Programs" topic="How-CPU-Executes-Programs.md"/>
+            <toc-element toc-title="Registers and RAM" topic="Registers-and-RAM.md"/>
+            <toc-element toc-title="Instructions and Programs" topic="Instructions-and-Programs.md"/>
+            <toc-element toc-title="CPU Cache" topic="CPU-Cache.md"/>
+            <toc-element toc-title="How Computers Calculate" topic="How-Computers-Calculate.md"/>
+        </toc-element>
+        <toc-element toc-title="Processes and Threads" topic="Processes-and-Threads.md">
+            <toc-element toc-title="Process Forking" topic="Process-Forking.md"/>
+            <toc-element toc-title="Memory Management" topic="Memory-Management.md"/>
+            <toc-element toc-title="Lock / Mutex / Semaphore" topic="Lock-Mutex-Semaphore.md"/>
+            <toc-element toc-title="Concurrency in Multiple Cores" topic="Concurrency-in-Multiple-Cores.md"/>
+            <toc-element toc-title="Scheduling Algorithms" topic="Scheduling-Algorithms.md"/>
+            <toc-element toc-title="CPU Interrupts" topic="CPU-Interrupts.md"/>
+            <toc-element toc-title="Processes vs Threads" topic="Processes-vs-Threads.md"/>
+        </toc-element>
+    </toc-element>
+
+    <toc-element toc-title="Data Structures &amp; Algorithms" topic="dsa-roadmap.md">
+        <toc-element toc-title="Programming Fundamentals" topic="dsa-programming-fundamentals.md">
+            <toc-element toc-title="Language Syntax" topic="dsa-language-syntax.md"/>
+            <toc-element toc-title="Control Structures" topic="dsa-control-structures.md"/>
+            <toc-element toc-title="Pseudo Code" topic="dsa-pseudo-code.md"/>
+            <toc-element toc-title="Functions" topic="dsa-functions.md"/>
+            <toc-element toc-title="OOP Basics" topic="dsa-oop-basics.md"/>
+        </toc-element>
+        <toc-element toc-title="What are Data Structures?" topic="dsa-what-are-data-structures.md"/>
+        <toc-element toc-title="Why are Data Structures Important?" topic="dsa-why-are-data-structures-important.md"/>
+        <toc-element toc-title="Basic Data Structures" topic="dsa-basic-data-structures.md">
+            <toc-element toc-title="Array" topic="dsa-array.md"/>
+            <toc-element toc-title="Linked Lists" topic="dsa-linked-lists.md"/>
+            <toc-element toc-title="Queues" topic="dsa-queues.md"/>
+            <toc-element toc-title="Stacks" topic="dsa-stacks.md"/>
+            <toc-element toc-title="Hash Tables" topic="dsa-hash-tables.md"/>
+        </toc-element>
+        <toc-element toc-title="Algorithmic Complexity" topic="dsa-algorithmic-complexity.md">
+            <toc-element toc-title="Time vs Space Complexity" topic="dsa-time-vs-space-complexity.md"/>
+            <toc-element toc-title="How to Calculate Complexity?" topic="dsa-how-to-calculate-complexity.md"/>
+            <toc-element toc-title="Asymptotic Notation" topic="dsa-asymptotic-notation.md">
+                <toc-element toc-title="Big-O Notation" topic="dsa-big-o-notation.md"/>
+                <toc-element toc-title="Big-θ Notation" topic="dsa-big-notation.md"/>
+                <toc-element toc-title="Big-Ω Notation" topic="dsa-big-notation-CkUi93.md"/>
+            </toc-element>
+            <toc-element toc-title="Common Runtimes" topic="dsa-common-runtimes.md">
+                <toc-element toc-title="Constant" topic="dsa-constant.md"/>
+                <toc-element toc-title="Logarithmic" topic="dsa-logarithmic.md"/>
+                <toc-element toc-title="Linear" topic="dsa-linear.md"/>
+                <toc-element toc-title="Polynomial" topic="dsa-polynomial.md"/>
+                <toc-element toc-title="Exponential" topic="dsa-exponential.md"/>
+                <toc-element toc-title="Factorial" topic="dsa-factorial.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Sorting Algorithms" topic="dsa-sorting-algorithms.md">
+            <toc-element toc-title="Bubble Sort" topic="dsa-bubble-sort.md"/>
+            <toc-element toc-title="Merge Sort" topic="dsa-merge-sort.md"/>
+            <toc-element toc-title="Insertion Sort" topic="dsa-insertion-sort.md"/>
+            <toc-element toc-title="Quick Sort" topic="dsa-quick-sort.md"/>
+            <toc-element toc-title="Selection Sort" topic="dsa-selection-sort.md"/>
+            <toc-element toc-title="Heap Sort" topic="dsa-heap-sort.md"/>
+        </toc-element>
+        <toc-element toc-title="Search Algorithms" topic="dsa-search-algorithms.md">
+            <toc-element toc-title="Binary Search" topic="dsa-binary-search.md"/>
+            <toc-element toc-title="Linear Search" topic="dsa-linear-search.md"/>
+        </toc-element>
+        <toc-element toc-title="Graph Data Structures" topic="dsa-graph-data-structures.md">
+            <toc-element toc-title="Directed Graph" topic="dsa-directed-graph.md"/>
+            <toc-element toc-title="Undirected Graph" topic="dsa-undirected-graph.md"/>
+            <toc-element toc-title="Search Algorithms" topic="dsa-search-algorithms-LW5HZM.md">
+                <toc-element toc-title="Breadth First Search" topic="dsa-breadth-first-search.md"/>
+                <toc-element toc-title="Depth First Search" topic="dsa-depth-first-search.md"/>
+            </toc-element>
+            <toc-element toc-title="Shortest Path Algorithms" topic="dsa-shortest-path-algorithms.md">
+                <toc-element toc-title="Dijkstra&apos;s Algorithm" topic="dsa-dijkstra-s-algorithm.md"/>
+                <toc-element toc-title="Bellman-Ford Algoritm" topic="dsa-bellman-ford-algoritm.md"/>
+                <toc-element toc-title="A* Algorithm" topic="dsa-a-algorithm.md"/>
+            </toc-element>
+            <toc-element toc-title="Minimum Spanning Tree" topic="dsa-minimum-spanning-tree.md">
+                <toc-element toc-title="Prim&apos;s Algorithm" topic="dsa-prim-s-algorithm.md"/>
+                <toc-element toc-title="Kruskal&apos;s Algorithm" topic="dsa-kruskal-s-algorithm.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Tree Data Structures" topic="dsa-tree-data-structures.md">
+            <toc-element toc-title="Binary Trees" topic="dsa-binary-trees.md"/>
+            <toc-element toc-title="Binary Search Trees" topic="dsa-binary-search-trees.md"/>
+            <toc-element toc-title="AVL Trees" topic="dsa-avl-trees.md"/>
+            <toc-element toc-title="B-Trees" topic="dsa-b-trees.md"/>
+            <toc-element toc-title="Heap" topic="dsa-heap.md"/>
+            <toc-element toc-title="Trie" topic="dsa-trie.md"/>
+            <toc-element toc-title="Tree Traversal" topic="dsa-tree-traversal.md">
+                <toc-element toc-title="In-Order Traversal" topic="dsa-in-order-traversal.md"/>
+                <toc-element toc-title="Pre-Order Traversal" topic="dsa-pre-order-traversal.md"/>
+                <toc-element toc-title="Post-Order Traversal" topic="dsa-post-order-traversal.md"/>
+            </toc-element>
+            <toc-element toc-title="Search Algorithms" topic="dsa-search-algorithms-YJsAQW.md">
+                <toc-element toc-title="Breadth First Search" topic="dsa-breadth-first-search-c7LdXJ.md"/>
+                <toc-element toc-title="Depth First Search" topic="dsa-depth-first-search-NrPO7v.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Advanced Data Structures" topic="dsa-advanced-data-structures.md">
+            <toc-element toc-title="Segment Trees" topic="dsa-segment-trees.md"/>
+            <toc-element toc-title="Fenwick Trees" topic="dsa-fenwick-trees.md"/>
+            <toc-element toc-title="Disjoint Set (Union-Find)" topic="dsa-disjoint-set-union-find.md"/>
+            <toc-element toc-title="Suffix Trees and Arrays" topic="dsa-suffix-trees-and-arrays.md"/>
+        </toc-element>
+        <toc-element toc-title="Complex Data Structures" topic="dsa-complex-data-structures.md">
+            <toc-element toc-title="2-3 Trees" topic="dsa-2-3-trees.md"/>
+            <toc-element toc-title="B/B+ Trees" topic="dsa-b-b-trees.md"/>
+            <toc-element toc-title="Skip List" topic="dsa-skip-list.md"/>
+            <toc-element toc-title="ISAM" topic="dsa-isam.md"/>
+        </toc-element>
+        <toc-element toc-title="Indexing" topic="dsa-indexing.md">
+            <toc-element toc-title="Linear" topic="dsa-linear-4noav5.md"/>
+            <toc-element toc-title="Tree-Based" topic="dsa-tree-based.md"/>
+        </toc-element>
+        <toc-element toc-title="Problem Solving Techniques" topic="dsa-problem-solving-techniques.md">
+            <toc-element toc-title="Brute Force" topic="dsa-brute-force.md"/>
+            <toc-element toc-title="Backtracking" topic="dsa-backtracking.md"/>
+            <toc-element toc-title="Greedy Algorithms" topic="dsa-greedy-algorithms.md"/>
+            <toc-element toc-title="Island traversal" topic="dsa-island-traversal.md"/>
+            <toc-element toc-title="Randomised Algorithms" topic="dsa-randomised-algorithms.md"/>
+            <toc-element toc-title="Multi-threaded" topic="dsa-multi-threaded.md"/>
+            <toc-element toc-title="Divide and Conquer" topic="dsa-divide-and-conquer.md"/>
+            <toc-element toc-title="Two Heaps" topic="dsa-two-heaps.md"/>
+            <toc-element toc-title="Kth Element" topic="dsa-kth-element.md"/>
+            <toc-element toc-title="Recursion" topic="dsa-recursion.md"/>
+            <toc-element toc-title="Merge Intervals" topic="dsa-merge-intervals.md"/>
+            <toc-element toc-title="Dynamic Programming" topic="dsa-dynamic-programming.md"/>
+            <toc-element toc-title="Cyclic Sort" topic="dsa-cyclic-sort.md"/>
+            <toc-element toc-title="Two Pointer Technique" topic="dsa-two-pointer-technique.md"/>
+            <toc-element toc-title="Fast and Slow Pointers" topic="dsa-fast-and-slow-pointers.md"/>
+            <toc-element toc-title="Sliding Window Technique" topic="dsa-sliding-window-technique.md"/>
+        </toc-element>
+        <toc-element toc-title="Platforms to Practice" topic="dsa-platforms-to-practice.md">
+            <toc-element toc-title="Leetcode" topic="dsa-leetcode.md"/>
+            <toc-element toc-title="Edabit" topic="dsa-edabit.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="System Design Roadmap" topic="system-design-roadmap.md">
+        <toc-element toc-title="Introduction" topic="system-design-introduction.md">
+            <toc-element toc-title="What is System Design?" topic="system-design-what-is-system-design.md"/>
+            <toc-element toc-title="How to approach System Design?" topic="system-design-how-to-approach-system-design.md"/>
+        </toc-element>
+        <toc-element toc-title="Performance vs Scalability" topic="system-design-performance-vs-scalability.md"/>
+        <toc-element toc-title="Latency vs Throughput" topic="system-design-latency-vs-throughput.md"/>
+        <toc-element toc-title="Availability vs Consistency" topic="system-design-availability-vs-consistency.md">
+            <toc-element toc-title="CAP Theorem" topic="system-design-cap-theorem.md"/>
+            <toc-element toc-title="AP - Availability + Partition Tolerance" topic="system-design-ap-availability-partition-tolerance.md"/>
+            <toc-element toc-title="CP - Consistency + Partition Tolerance" topic="system-design-cp-consistency-partition-tolerance.md"/>
+        </toc-element>
+        <toc-element toc-title="Consistency Patterns" topic="system-design-consistency-patterns.md">
+            <toc-element toc-title="Weak Consistency" topic="system-design-weak-consistency.md"/>
+            <toc-element toc-title="Eventual Consistency" topic="system-design-eventual-consistency.md"/>
+            <toc-element toc-title="Strong Consistency" topic="system-design-strong-consistency.md"/>
+        </toc-element>
+        <toc-element toc-title="Availability Patterns" topic="system-design-availability-patterns.md">
+            <toc-element toc-title="Active - Active" topic="system-design-active-active.md"/>
+            <toc-element toc-title="Master - Slave" topic="system-design-master-slave.md"/>
+            <toc-element toc-title="Active - Passive" topic="system-design-active-passive.md"/>
+            <toc-element toc-title="Master - Master" topic="system-design-master-master.md"/>
+            <toc-element toc-title="Fail-Over" topic="system-design-fail-over.md"/>
+            <toc-element toc-title="Replication" topic="system-design-replication.md"/>
+            <toc-element toc-title="99.9% Availability - three 9s" topic="system-design-99-9-availability-three-9s.md"/>
+            <toc-element toc-title="99.99% Availability - four 9s" topic="system-design-99-99-availability-four-9s.md"/>
+            <toc-element toc-title="Availability in Parallel vs Sequence" topic="system-design-availability-in-parallel-vs-sequence.md"/>
+            <toc-element toc-title="Availability in Numbers" topic="system-design-availability-in-numbers.md"/>
+        </toc-element>
+        <toc-element toc-title="Background Jobs" topic="system-design-background-jobs.md">
+            <toc-element toc-title="Event-Driven" topic="system-design-event-driven.md"/>
+            <toc-element toc-title="Schedule Driven" topic="system-design-schedule-driven.md"/>
+            <toc-element toc-title="Returning Results" topic="system-design-returning-results.md"/>
+        </toc-element>
+        <toc-element toc-title="Domain Name System" topic="system-design-domain-name-system.md"/>
+        <toc-element toc-title="Content Delivery Networks" topic="system-design-content-delivery-networks.md">
+            <toc-element toc-title="Pull CDNs" topic="system-design-pull-cdns.md"/>
+            <toc-element toc-title="Push CDNs" topic="system-design-push-cdns.md"/>
+        </toc-element>
+        <toc-element toc-title="Application Layer" topic="system-design-application-layer.md">
+            <toc-element toc-title="Service Discovery" topic="system-design-service-discovery.md"/>
+            <toc-element toc-title="Microservices" topic="system-design-microservices.md"/>
+            <toc-element toc-title="Databases" topic="system-design-databases.md">
+                <toc-element toc-title="Key-Value Store" topic="system-design-key-value-store.md"/>
+                <toc-element toc-title="Document Store" topic="system-design-document-store.md"/>
+                <toc-element toc-title="Wide Column Store" topic="system-design-wide-column-store.md"/>
+                <toc-element toc-title="Graph Databases" topic="system-design-graph-databases.md"/>
+                <toc-element toc-title="NoSQL" topic="system-design-nosql.md"/>
+                <toc-element toc-title="SQL vs NoSQL" topic="system-design-sql-vs-nosql.md"/>
+                <toc-element toc-title="RDBMS" topic="system-design-rdbms.md"/>
+                <toc-element toc-title="Replication" topic="system-design-replication-dc-aIb.md"/>
+                <toc-element toc-title="Sharding" topic="system-design-sharding.md"/>
+                <toc-element toc-title="Federation" topic="system-design-federation.md"/>
+                <toc-element toc-title="Denormalization" topic="system-design-denormalization.md"/>
+                <toc-element toc-title="SQL Tuning" topic="system-design-sql-tuning.md"/>
+                <toc-element toc-title="Caching" topic="system-design-caching.md">
+                    <toc-element toc-title="Strategies" topic="system-design-strategies.md">
+                        <toc-element toc-title="Refresh Ahead" topic="system-design-refresh-ahead.md"/>
+                        <toc-element toc-title="Write-behind" topic="system-design-write-behind.md"/>
+                        <toc-element toc-title="Write-through" topic="system-design-write-through.md"/>
+                        <toc-element toc-title="Cache Aside" topic="system-design-cache-aside.md"/>
+                    </toc-element>
+                    <toc-element toc-title="Types of Caching" topic="system-design-types-of-caching.md">
+                        <toc-element toc-title="Client Caching" topic="system-design-client-caching.md"/>
+                        <toc-element toc-title="CDN Caching" topic="system-design-cdn-caching.md"/>
+                        <toc-element toc-title="Web Server Caching" topic="system-design-web-server-caching.md"/>
+                        <toc-element toc-title="Database Caching" topic="system-design-database-caching.md"/>
+                        <toc-element toc-title="Application Caching" topic="system-design-application-caching.md"/>
+                    </toc-element>
+                    <toc-element toc-title="Asynchronism" topic="system-design-asynchronism.md">
+                        <toc-element toc-title="Task Queues" topic="system-design-task-queues.md"/>
+                        <toc-element toc-title="Message Queues" topic="system-design-message-queues.md"/>
+                        <toc-element toc-title="Back Pressure" topic="system-design-back-pressure.md"/>
+                    </toc-element>
+                </toc-element>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Load Balancers" topic="system-design-load-balancers.md">
+            <toc-element toc-title="LB vs Reverse Proxy" topic="system-design-lb-vs-reverse-proxy.md"/>
+            <toc-element toc-title="Load Balancing Algorithms" topic="system-design-load-balancing-algorithms.md"/>
+            <toc-element toc-title="Layer 7 Load Balancing" topic="system-design-layer-7-load-balancing.md"/>
+            <toc-element toc-title="Layer 4 Load Balancing" topic="system-design-layer-4-load-balancing.md"/>
+            <toc-element toc-title="Horizontal Scaling" topic="system-design-horizontal-scaling.md"/>
+        </toc-element>
+        <toc-element toc-title="Communication" topic="system-design-communication.md">
+            <toc-element toc-title="HTTP" topic="system-design-http.md"/>
+            <toc-element toc-title="TCP" topic="system-design-tcp.md"/>
+            <toc-element toc-title="UDP" topic="system-design-udp.md"/>
+            <toc-element toc-title="RPC" topic="system-design-rpc.md"/>
+            <toc-element toc-title="gRPC" topic="system-design-grpc.md"/>
+            <toc-element toc-title="REST" topic="system-design-rest.md"/>
+            <toc-element toc-title="GraphQL" topic="system-design-graphql.md"/>
+        </toc-element>
+        <toc-element toc-title="Idempotent Operations" topic="system-design-idempotent-operations.md"/>
+        <toc-element toc-title="Performance Antipatterns" topic="system-design-performance-antipatterns.md">
+            <toc-element toc-title="Busy Database" topic="system-design-busy-database.md"/>
+            <toc-element toc-title="Busy Frontend" topic="system-design-busy-frontend.md"/>
+            <toc-element toc-title="Chatty I/O" topic="system-design-chatty-i-o.md"/>
+            <toc-element toc-title="Retry Storm" topic="system-design-retry-storm.md"/>
+            <toc-element toc-title="No Caching" topic="system-design-no-caching.md"/>
+            <toc-element toc-title="Improper Instantiation" topic="system-design-improper-instantiation.md"/>
+            <toc-element toc-title="Monolithic Persistence" topic="system-design-monolithic-persistence.md"/>
+            <toc-element toc-title="Noisy Neighbor" topic="system-design-noisy-neighbor.md"/>
+            <toc-element toc-title="Synchronous I/O" topic="system-design-synchronous-i-o.md"/>
+            <toc-element toc-title="Extraneous Fetching" topic="system-design-extraneous-fetching.md"/>
+        </toc-element>
+        <toc-element toc-title="Monitoring" topic="system-design-monitoring.md">
+            <toc-element toc-title="Health Monitoring" topic="system-design-health-monitoring.md"/>
+            <toc-element toc-title="Availability Monitoring" topic="system-design-availability-monitoring.md"/>
+            <toc-element toc-title="Performance Monitoring" topic="system-design-performance-monitoring.md"/>
+            <toc-element toc-title="Security Monitoring" topic="system-design-security-monitoring.md"/>
+            <toc-element toc-title="Usage Monitoring" topic="system-design-usage-monitoring.md"/>
+            <toc-element toc-title="Instrumentation" topic="system-design-instrumentation.md"/>
+            <toc-element toc-title="Visualization &amp; Alerts" topic="system-design-visualization-and-alerts.md"/>
+        </toc-element>
+        <toc-element toc-title="Cloud Design Patterns" topic="system-design-cloud-design-patterns.md">
+            <toc-element toc-title="Design &amp; Implementation" topic="system-design-design-and-implementation.md">
+                <toc-element toc-title="Strangler Fig" topic="system-design-strangler-fig.md"/>
+                <toc-element toc-title="Sidecar" topic="system-design-sidecar.md"/>
+                <toc-element toc-title="Leader Election" topic="system-design-leader-election.md"/>
+                <toc-element toc-title="Pipes &amp; Filters" topic="system-design-pipes-and-filters.md"/>
+                <toc-element toc-title="Ambassador" topic="system-design-ambassador.md"/>
+                <toc-element toc-title="Gateway Routing" topic="system-design-gateway-routing.md"/>
+                <toc-element toc-title="Gateway Offloading" topic="system-design-gateway-offloading.md"/>
+                <toc-element toc-title="Gateway Aggregation" topic="system-design-gateway-aggregation.md"/>
+                <toc-element toc-title="External Config Store" topic="system-design-external-config-store.md"/>
+                <toc-element toc-title="Compute Resource Consolidation" topic="system-design-compute-resource-consolidation.md"/>
+                <toc-element toc-title="Backends for Frontend" topic="system-design-backends-for-frontend.md"/>
+                <toc-element toc-title="Anti-Corruption Layer" topic="system-design-anti-corruption-layer.md"/>
+            </toc-element>
+            <toc-element toc-title="Data Management" topic="system-design-data-management.md">
+                <toc-element toc-title="Valet Key" topic="system-design-valet-key.md"/>
+                <toc-element toc-title="Static Content Hosting" topic="system-design-static-content-hosting--lKq-L.md"/>
+                <toc-element toc-title="Sharding" topic="system-design-sharding-R6Yehz.md"/>
+                <toc-element toc-title="Materialized View" topic="system-design-materialized-view.md"/>
+                <toc-element toc-title="Index Table" topic="system-design-index-table.md"/>
+                <toc-element toc-title="Event Sourcing" topic="system-design-event-sourcing.md"/>
+                <toc-element toc-title="CQRS" topic="system-design-cqrs-LTD3dn.md"/>
+                <toc-element toc-title="Cache-Aside" topic="system-design-cache-aside-PK4V9O.md"/>
+            </toc-element>
+            <toc-element toc-title="Messaging" topic="system-design-messaging.md">
+                <toc-element toc-title="Sequential Convoy" topic="system-design-sequential-convoy.md"/>
+                <toc-element toc-title="Scheduling Agent Supervisor" topic="system-design-scheduling-agent-supervisor.md"/>
+                <toc-element toc-title="Queue-Based Load Leveling" topic="system-design-queue-based-load-leveling.md"/>
+                <toc-element toc-title="Publisher/Subscriber" topic="system-design-publisher-subscriber.md"/>
+                <toc-element toc-title="Priority Queue" topic="system-design-priority-queue.md"/>
+                <toc-element toc-title="Pipes and Filters" topic="system-design-pipes-and-filters-siXdR3.md"/>
+                <toc-element toc-title="Competing Consumers" topic="system-design-competing-consumers.md"/>
+                <toc-element toc-title="Choreography" topic="system-design-choreography.md"/>
+                <toc-element toc-title="Claim Check" topic="system-design-claim-check.md"/>
+                <toc-element toc-title="Async Request Reply" topic="system-design-async-request-reply.md"/>
+            </toc-element>
+            <toc-element toc-title="Reliability Patterns" topic="system-design-reliability-patterns.md">
+                <toc-element toc-title="Availability" topic="system-design-availability.md">
+                    <toc-element toc-title="Deployment Stamps" topic="system-design-deployment-stamps.md"/>
+                    <toc-element toc-title="Geodes" topic="system-design-geodes.md"/>
+                    <toc-element toc-title="Health Endpoint Monitoring" topic="system-design-health-endpoint-monitoring.md"/>
+                    <toc-element toc-title="Queue-Based Load Leveling" topic="system-design-queue-based-load-leveling--M3Zd8.md"/>
+                    <toc-element toc-title="Throttling" topic="system-design-throttling.md"/>
+                </toc-element>
+                <toc-element toc-title="High Availability" topic="system-design-high-availability.md">
+                    <toc-element toc-title="Deployment Stamps" topic="system-design-deployment-stamps-Ze471t.md"/>
+                    <toc-element toc-title="Geodes" topic="system-design-geodes-6hOSEZ.md"/>
+                    <toc-element toc-title="Health Endpoint Monitoring" topic="system-design-health-endpoint-monitoring-uK5o7N.md"/>
+                    <toc-element toc-title="Circuit Breaker" topic="system-design-circuit-breaker-D1OmCo.md"/>
+                    <toc-element toc-title="Federated Identity" topic="system-design-federated-identity.md"/>
+                    <toc-element toc-title="Gatekeeper" topic="system-design-gatekeeper.md"/>
+                    <toc-element toc-title="Valet Key" topic="system-design-valet-key-VltZgI.md"/>
+                </toc-element>
+                <toc-element toc-title="Resiliency" topic="system-design-resiliency.md">
+                    <toc-element toc-title="Bulkhead" topic="system-design-bulkhead.md"/>
+                    <toc-element toc-title="Circuit Breaker" topic="system-design-circuit-breaker.md"/>
+                    <toc-element toc-title="Compensating Transaction" topic="system-design-compensating-transaction.md"/>
+                    <toc-element toc-title="Health Endpoint Monitoring" topic="system-design-health-endpoint-monitoring-CKCNk3.md"/>
+                    <toc-element toc-title="Leader Election" topic="system-design-leader-election-AJLBFy.md"/>
+                    <toc-element toc-title="Queue-Based Load Leveling" topic="system-design-queue-based-load-leveling-NybkOw.md"/>
+                    <toc-element toc-title="Retry " topic="system-design-retry.md"/>
+                    <toc-element toc-title="Scheduler Agent Supervisor" topic="system-design-scheduler-agent-supervisor.md"/>
+                </toc-element>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Security" topic="system-design-security.md"/>
+    </toc-element>
 
     <snippet id="main-description">
         Comprehensive software engineering education to combat brain rot. Deep, long-form content covering everything from fundamentals to advanced topics.

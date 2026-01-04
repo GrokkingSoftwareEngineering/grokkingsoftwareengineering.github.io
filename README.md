@@ -10,25 +10,6 @@ Visit the live site: [https://engineeringfoundations.github.io](https://engineer
 
 Engineering Foundations provides deep, long-form technical content to combat the brain rot epidemic caused by short-form content and superficial tutorials. We believe in building genuine expertise through comprehensive education.
 
-## Content Structure
-
-Our **comprehensive topics** follow the Computer Science roadmap progression:
-
-1. **Programming Basics** - Baseline programming literacy
-2. **Data Structures** - Core containers and structures
-3. **Asymptotic Notation** - Complexity analysis fundamentals
-4. **Common Algorithms** - Sorting, searching, graph algorithms, classic problems
-5. **String Search & Data Representation** - Text algorithms and low-level encoding details
-6. **Design Patterns & Architecture** - Patterns, architectural styles, UML
-7. **Basic Math Skills** - Discrete math and mathematical foundations
-8. **Complexity Classes** - P, NP, NP-hard, NP-complete
-9. **Networking** - Models, protocols, and network programming
-10. **Databases** - Data modeling, indexing, transactions, scaling
-11. **System Design** - Scalability, caching, distributed systems, API design
-12. **Security** - Security fundamentals and cryptography
-13. **How Computers Work** - CPU execution, memory, OS, concurrency
-14. **Real-Time Communication** - Polling, SSE, WebSockets
-
 ## Technology Stack
 
 - **Documentation Platform**: [JetBrains Writerside](https://www.jetbrains.com/writerside/)
