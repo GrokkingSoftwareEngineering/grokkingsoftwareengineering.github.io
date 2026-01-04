@@ -12,19 +12,22 @@ Engineering Foundations provides deep, long-form technical content to combat the
 
 ## Content Structure
 
-Our **60+ comprehensive topics** are organized into 11 progressive parts:
+Our **comprehensive topics** are organized into progressive parts:
 
-1. **Computer Science Fundamentals** - Core concepts and mathematical foundations
-2. **Programming Languages** - Deep dives into Python, JavaScript, Java, Go, Rust, SQL
-3. **Computer Systems** - Architecture, operating systems, networking, security
-4. **Software Development** - Clean code, OOP, patterns, testing, reviews
-5. **Web Development** - Frontend, backend, APIs, security, performance
-6. **System Design & Architecture** - Scalable systems, databases, distributed systems
-7. **DevOps & Infrastructure** - Version control, CI/CD, containers, cloud, monitoring
-8. **Advanced Topics** - Algorithms, complexity, enterprise patterns, architecture decisions
-9. **Professional Development** - Career progression from junior to senior engineer
-10. **Industry Practices** - Agile, documentation, open source, technical communication
-11. **Specialized Domains** - Data engineering, enterprise integration, compliance
+1. **Computer Science Fundamentals** - Core concepts, data representation, discrete math, complexity
+2. **Data Structures & Algorithms** - Structures, algorithms, and classic problem patterns
+3. **Computer Systems** - Operating systems, concurrency, memory management
+4. **Networking** - Models, protocols, and network programming
+5. **Databases** - Data modeling, transactions, indexing, scaling
+6. **Software Development** - Clean code, OOP, patterns, UML, testing, reviews
+7. **Web Development** - Backend, frontend, API design, real-time, security, performance
+8. **System Design & Architecture** - Scalable systems, distributed systems, CAP/PACELC
+9. **DevOps & Infrastructure** - Version control, CI/CD, containers, cloud, monitoring
+10. **Security** - Security fundamentals and cryptography
+11. **Professional Development** - Career progression from junior to senior engineer
+12. **Industry Practices** - Agile, documentation, open source, technical communication
+13. **Specialized Domains** - Data engineering, enterprise integration, compliance
+14. **Advanced Topics** - Enterprise patterns and advanced system design
 
 ## Technology Stack
 
@@ -94,6 +97,7 @@ We welcome contributions from engineers who share our mission of comprehensive t
 - **Practical examples**: Include real-world applications and code samples
 - **Progressive structure**: Build concepts systematically
 - **Quality focus**: Accuracy, clarity, and educational value are paramount
+- **Language-agnostic**: Concepts apply to any language; use Node.js-style JavaScript for examples
 
 ### Writing Process
 

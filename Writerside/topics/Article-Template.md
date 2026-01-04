@@ -84,29 +84,24 @@ Use these for important information:
 ### Code Examples
 Always include comments and explanations:
 
-```python
-# Clear, descriptive function name
-def calculate_compound_interest(principal, rate, time):
-    """
-    Calculate compound interest using the standard formula.
+Use Node.js-style JavaScript for code samples so readers can follow along regardless of language background. Keep examples language-agnostic in concepts and explain the intent clearly.
 
-    Args:
-        principal: Initial amount invested
-        rate: Annual interest rate (as a decimal)
-        time: Number of years
+```javascript
+// Clear, descriptive function name
+function calculateCompoundInterest(principal, rate, timeYears) {
+  // Calculate compound interest using the standard formula.
+  return principal * Math.pow(1 + rate, timeYears);
+}
 
-    Returns:
-        Final amount after compound interest
-    """
-    return principal * (1 + rate) ** time
+// Example usage with explanation
+const initialInvestment = 1000;
+const annualRate = 0.05; // 5% annual rate
+const years = 10;
 
-# Example usage with explanation
-initial_investment = 1000
-annual_rate = 0.05  # 5% annual rate
-years = 10
-
-final_amount = calculate_compound_interest(initial_investment, annual_rate, years)
-print(f"${initial_investment} invested at {annual_rate*100}% for {years} years = ${final_amount:.2f}")
+const finalAmount = calculateCompoundInterest(initialInvestment, annualRate, years);
+console.log(
+  `$${initialInvestment} invested at ${annualRate * 100}% for ${years} years = $${finalAmount.toFixed(2)}`
+);
 ```
 
 ### Visual Elements

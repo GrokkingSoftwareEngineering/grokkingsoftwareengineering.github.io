@@ -39,40 +39,49 @@ Transitioning into software engineering? Our structured approach helps you build
 
 ## What You'll Find Here
 
-Our **60+ comprehensive topics** are organized into 11 progressive parts covering every aspect of software engineering:
+Our **comprehensive topics** are organized into progressive parts covering every aspect of software engineering:
 
 ### Part 1: Computer Science Fundamentals
-Master core concepts: programming basics, computer architecture, data structures, algorithms, complexity analysis, and advanced problem-solving patterns.
+Master core concepts: programming basics, computer architecture, data representation, discrete math, and complexity analysis.
 
-### Part 2: Programming Languages
-Deep dives into essential languages: Python, JavaScript/TypeScript, Java, Go, Rust, and SQL.
+### Part 2: Data Structures & Algorithms
+Learn foundational and advanced data structures, algorithm design techniques, and classic problems.
 
 ### Part 3: Computer Systems
-Understand the foundation: computer architecture, operating systems, networking fundamentals, and security principles.
+Understand operating systems, concurrency, and memory management.
 
-### Part 4: Software Development
-Essential practices: clean code principles, OOP, functional programming, design patterns, testing, and code reviews.
+### Part 4: Networking
+Master network models, protocols, and practical network programming.
 
-### Part 5: Web Development
-Comprehensive web technologies: frontend frameworks, backend development, APIs, security, and performance optimization.
+### Part 5: Databases
+Study data modeling, normalization, transactions, indexing, and scaling strategies.
 
-### Part 6: System Design & Architecture
-Build scalable systems: system design fundamentals, databases, distributed systems, microservices, messaging, and cloud patterns.
+### Part 6: Software Development
+Essential practices: clean code, OOP, functional programming, patterns, UML, testing, and reviews.
 
-### Part 7: DevOps & Infrastructure
+### Part 7: Web Development
+Core web technologies: backend and frontend fundamentals, API design, real-time communication, security, and performance.
+
+### Part 8: System Design & Architecture
+Design scalable systems with distributed systems, caching, CAP/PACELC, and architectural decision-making.
+
+### Part 9: DevOps & Infrastructure
 Modern deployment practices: version control, CI/CD, containerization, cloud platforms, and monitoring.
 
-### Part 8: Advanced Topics
-Expert-level concepts: advanced algorithms, complexity classes, enterprise patterns, architecture decisions, and requirements engineering.
+### Part 10: Security
+Security fundamentals and cryptography concepts for building secure systems.
 
-### Part 9: Professional Development
-Career navigation: junior to senior progression, technical leadership, interview preparation, and portfolio building.
+### Part 11: Professional Development
+Career navigation: junior to senior progression, leadership, interviews, and portfolio building.
 
-### Part 10: Industry Practices
+### Part 12: Industry Practices
 Professional excellence: agile methodologies, documentation standards, open source contribution, and technical communication.
 
-### Part 11: Specialized Domains
+### Part 13: Specialized Domains
 Industry applications: data engineering, enterprise integration, business process management, and compliance standards.
+
+### Part 14: Advanced Topics
+Enterprise patterns and advanced system design considerations.
 
 ## Our Philosophy
 
@@ -102,6 +111,9 @@ Our content is carefully structured to build upon previous knowledge, creating a
 3. **Practice Actively**: Don't just read – implement the concepts and examples
 4. **Take Your Time**: This isn't fast food content – digest it properly
 5. **Revisit Regularly**: Complex topics often make more sense on the second or third reading
+
+### Language-Agnostic by Design
+All topics are written to apply across programming languages. When code or pseudocode is needed, we use **Node.js-style JavaScript** for consistency, but the concepts are language-agnostic and transferable.
 
 ---
 

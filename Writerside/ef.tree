@@ -17,57 +17,79 @@
         <toc-element topic="Computer-Science-Fundamentals.md"/>
         <toc-element topic="Programming-Basics.md"/>
         <toc-element topic="How-Computers-Work.md"/>
-        <toc-element topic="Data-Structures-Algorithms.md"/>
+        <toc-element topic="Computer-Architecture.md"/>
+        <toc-element topic="Data-Representation.md"/>
         <toc-element topic="Mathematics-for-Engineers.md"/>
+        <toc-element topic="Discrete-Mathematics.md"/>
         <toc-element topic="Asymptotic-Notation-Complexity.md"/>
+        <toc-element topic="Complexity-Classes.md"/>
         <toc-element topic="Advanced-Problem-Solving-Patterns.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 2: Programming Languages">
-        <toc-element topic="Python.md"/>
-        <toc-element topic="JavaScript-TypeScript.md"/>
-        <toc-element topic="Java.md"/>
-        <toc-element topic="Go.md"/>
-        <toc-element topic="Rust.md"/>
-        <toc-element topic="SQL.md"/>
+    <toc-element toc-title="Part 2: Data Structures &amp; Algorithms">
+        <toc-element topic="Data-Structures-Algorithms.md"/>
+        <toc-element topic="Sorting-Searching-Algorithms.md"/>
+        <toc-element topic="Graph-Algorithms.md"/>
+        <toc-element topic="String-Algorithms.md"/>
+        <toc-element topic="Advanced-Trees-Indexes.md"/>
+        <toc-element topic="Algorithmic-Problems.md"/>
+        <toc-element topic="Advanced-Algorithms.md"/>
     </toc-element>
 
     <toc-element toc-title="Part 3: Computer Systems">
-        <toc-element topic="Computer-Architecture.md"/>
         <toc-element topic="Operating-Systems.md"/>
-        <toc-element topic="Networking-Fundamentals.md"/>
-        <toc-element topic="Security-Fundamentals.md"/>
+        <toc-element topic="Concurrency-Synchronization.md"/>
+        <toc-element topic="Memory-Management.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 4: Software Development">
+    <toc-element toc-title="Part 4: Networking">
+        <toc-element topic="Networking-Fundamentals.md"/>
+        <toc-element topic="Network-Protocols.md"/>
+        <toc-element topic="Network-Programming.md"/>
+    </toc-element>
+
+    <toc-element toc-title="Part 5: Databases">
+        <toc-element topic="Database-Design.md"/>
+        <toc-element topic="Database-Systems.md"/>
+    </toc-element>
+
+    <toc-element toc-title="Part 6: Software Development">
         <toc-element topic="Clean-Code-Refactoring.md"/>
         <toc-element topic="Object-Oriented-Programming.md"/>
         <toc-element topic="Functional-Programming.md"/>
         <toc-element topic="Software-Design-Patterns.md"/>
+        <toc-element topic="Architectural-Styles.md"/>
+        <toc-element topic="UML-Diagrams.md"/>
         <toc-element topic="Testing-Quality-Assurance.md"/>
         <toc-element topic="Code-Review-Best-Practices.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 5: Web Development">
+    <toc-element toc-title="Part 7: Web Development">
         <toc-element topic="Frontend-Frameworks.md"/>
         <toc-element topic="Backend-Development.md"/>
+        <toc-element topic="API-Design-Fundamentals.md"/>
         <toc-element topic="REST-GraphQL-APIs.md"/>
+        <toc-element topic="Real-Time-Communication.md"/>
         <toc-element topic="Web-Security.md"/>
         <toc-element topic="Performance-Optimization.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 6: System Design &amp; Architecture">
+    <toc-element toc-title="Part 8: System Design &amp; Architecture">
         <toc-element topic="System-Design-Fundamentals.md"/>
-        <toc-element topic="Database-Design.md"/>
         <toc-element topic="Scalability-Performance.md"/>
+        <toc-element topic="Caching-Strategies.md"/>
+        <toc-element topic="CAP-PACELC.md"/>
         <toc-element topic="Distributed-Systems.md"/>
         <toc-element topic="Microservices-Architecture.md"/>
         <toc-element topic="Message-Queues-Event-Streaming.md"/>
         <toc-element topic="Cloud-Design-Patterns.md"/>
         <toc-element topic="Performance-Anti-Patterns.md"/>
+        <toc-element topic="Software-Architecture.md"/>
+        <toc-element topic="Architecture-Decision-Making.md"/>
+        <toc-element topic="Requirements-Engineering.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 7: DevOps &amp; Infrastructure">
+    <toc-element toc-title="Part 9: DevOps &amp; Infrastructure">
         <toc-element topic="Version-Control-Git.md"/>
         <toc-element topic="CI-CD-Pipelines.md"/>
         <toc-element topic="Docker-Containerization.md"/>
@@ -75,17 +97,12 @@
         <toc-element topic="Monitoring-Observability.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 8: Advanced Topics">
-        <toc-element topic="Advanced-Algorithms.md"/>
-        <toc-element topic="Complexity-Classes.md"/>
-        <toc-element topic="Advanced-System-Design.md"/>
-        <toc-element topic="Software-Architecture.md"/>
-        <toc-element topic="Enterprise-Integration-Patterns.md"/>
-        <toc-element topic="Architecture-Decision-Making.md"/>
-        <toc-element topic="Requirements-Engineering.md"/>
+    <toc-element toc-title="Part 10: Security">
+        <toc-element topic="Security-Fundamentals.md"/>
+        <toc-element topic="Cryptography-Fundamentals.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 9: Professional Development">
+    <toc-element toc-title="Part 11: Professional Development">
         <toc-element topic="Junior-to-Mid-Level.md"/>
         <toc-element topic="Mid-to-Senior-Level.md"/>
         <toc-element topic="Technical-Leadership.md"/>
@@ -93,17 +110,22 @@
         <toc-element topic="Building-Portfolio.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 10: Industry Practices">
+    <toc-element toc-title="Part 12: Industry Practices">
         <toc-element topic="Agile-Methodologies.md"/>
         <toc-element topic="Documentation-Standards.md"/>
         <toc-element topic="Open-Source-Contribution.md"/>
         <toc-element topic="Technical-Communication.md"/>
     </toc-element>
 
-    <toc-element toc-title="Part 11: Specialized Domains">
+    <toc-element toc-title="Part 13: Specialized Domains">
         <toc-element topic="Data-Engineering-Fundamentals.md"/>
         <toc-element topic="Enterprise-Software-Integration.md"/>
         <toc-element topic="Business-Process-Management.md"/>
         <toc-element topic="Compliance-Standards.md"/>
+    </toc-element>
+
+    <toc-element toc-title="Part 14: Advanced Topics">
+        <toc-element topic="Advanced-System-Design.md"/>
+        <toc-element topic="Enterprise-Integration-Patterns.md"/>
     </toc-element>
 </instance-profile>

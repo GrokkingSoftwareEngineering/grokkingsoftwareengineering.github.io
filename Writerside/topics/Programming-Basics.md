@@ -278,6 +278,6 @@ Once you've mastered programming basics, you'll be ready to:
 Ready to dive deeper? Your next learning path depends on your interests:
 
 - **Problem-Solving Focus**: Continue to [Data Structures & Algorithms](Data-Structures-Algorithms.md)
-- **Language Mastery**: Choose a specific language like [Python](Python.md) or [JavaScript](JavaScript-TypeScript.md)
+- **Language Mastery**: Choose a specific language and practice consistently
 - **Application Development**: Explore [Web Development](Frontend-Frameworks.md) or mobile development
 - **Computer Science Theory**: Delve into [Computer Science Fundamentals](Computer-Science-Fundamentals.md)
