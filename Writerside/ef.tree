@@ -105,13 +105,6 @@
     </toc-element>
 
     <toc-element toc-title="Data Structures &amp; Algorithms" topic="dsa-roadmap.md">
-        <toc-element toc-title="Programming Fundamentals" topic="dsa-programming-fundamentals.md">
-            <toc-element toc-title="Language Syntax" topic="dsa-language-syntax.md"/>
-            <toc-element toc-title="Control Structures" topic="dsa-control-structures.md"/>
-            <toc-element toc-title="Pseudo Code" topic="dsa-pseudo-code.md"/>
-            <toc-element toc-title="Functions" topic="dsa-functions.md"/>
-            <toc-element toc-title="OOP Basics" topic="dsa-oop-basics.md"/>
-        </toc-element>
         <toc-element toc-title="What are Data Structures?" topic="dsa-what-are-data-structures.md"/>
         <toc-element toc-title="Why are Data Structures Important?" topic="dsa-why-are-data-structures-important.md"/>
         <toc-element toc-title="Basic Data Structures" topic="dsa-basic-data-structures.md">
@@ -217,10 +210,6 @@
             <toc-element toc-title="Two Pointer Technique" topic="dsa-two-pointer-technique.md"/>
             <toc-element toc-title="Fast and Slow Pointers" topic="dsa-fast-and-slow-pointers.md"/>
             <toc-element toc-title="Sliding Window Technique" topic="dsa-sliding-window-technique.md"/>
-        </toc-element>
-        <toc-element toc-title="Platforms to Practice" topic="dsa-platforms-to-practice.md">
-            <toc-element toc-title="Leetcode" topic="dsa-leetcode.md"/>
-            <toc-element toc-title="Edabit" topic="dsa-edabit.md"/>
         </toc-element>
     </toc-element>
     <toc-element toc-title="System Design Roadmap" topic="system-design-roadmap.md">
