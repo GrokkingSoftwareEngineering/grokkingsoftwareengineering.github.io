@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE vars SYSTEM "https://resources.jetbrains.com/writerside/1.0/vars.dtd">
 <vars>
-    <var name="product" value="Engineering Foundations"/>
-    <var name="product-short" value="EF"/>
-    <var name="company" value="Engineering Foundations"/>
-    <var name="site-url" value="https://engineeringfoundations.github.io"/>
-    <var name="github-url" value="https://github.com/engineeringfoundations/engineeringfoundations.github.io"/>
+    <var name="product" value="GrokkingSoftwareEngineering"/>
+    <var name="product-short" value="GSE"/>
+    <var name="company" value="GrokkingSoftwareEngineering"/>
+    <var name="site-url" value="https://grokkingsoftwareengineering.github.io"/>
+    <var name="github-url" value="https://github.com/grokkingsoftwareengineering/grokkingsoftwareengineering.github.io"/>
 </vars>

@@ -20,9 +20,9 @@ You are a senior technical writer creating educational content for software engi
 ## Project Structure & Module Organization
 
 - `Writerside/topics/` holds all article Markdown. Each topic is a single file such as `Writerside/topics/dsa-binary-search.md`.
-- `Writerside/ef.tree` defines the site navigation; update it when adding or renaming topics.
+- `Writerside/gse.tree` defines the site navigation; update it when adding or renaming topics.
 - `Writerside/c.list` and `Writerside/v.list` control categories and variables used by Writerside.
-- `Writerside/images/` contains SVG assets and site CSS (e.g., `Writerside/images/ef-styles.css`).
+- `Writerside/images/` contains SVG assets and site CSS (e.g., `Writerside/images/gse-styles.css`).
 
 ---
 

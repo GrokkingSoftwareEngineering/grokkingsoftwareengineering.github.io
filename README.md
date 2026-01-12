@@ -1,14 +1,14 @@
-# Engineering Foundations
+# GrokkingSoftwareEngineering
 
-[![Build Documentation](https://github.com/engineeringfoundations/engineeringfoundations.github.io/actions/workflows/build-docs.yml/badge.svg)](https://github.com/engineeringfoundations/engineeringfoundations.github.io/actions/workflows/build-docs.yml)
+[![Build Documentation](https://github.com/grokkingsoftwareengineering/grokkingsoftwareengineering.github.io/actions/workflows/build-docs.yml/badge.svg)](https://github.com/grokkingsoftwareengineering/grokkingsoftwareengineering.github.io/actions/workflows/build-docs.yml)
 
 **Combating brain rot through comprehensive software engineering education.**
 
-Visit the live site: [https://engineeringfoundations.github.io](https://engineeringfoundations.github.io)
+Visit the live site: [https://grokkingsoftwareengineering.github.io](https://grokkingsoftwareengineering.github.io)
 
 ## Mission
 
-Engineering Foundations provides deep, long-form technical content to combat the brain rot epidemic caused by short-form content and superficial tutorials. We believe in building genuine expertise through comprehensive education.
+GrokkingSoftwareEngineering provides deep, long-form technical content to combat the brain rot epidemic caused by short-form content and superficial tutorials. We believe in building genuine expertise through comprehensive education.
 
 ## Technology Stack
 
@@ -28,8 +28,8 @@ Engineering Foundations provides deep, long-form technical content to combat the
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/engineeringfoundations/engineeringfoundations.github.io.git
-   cd engineeringfoundations.github.io
+   git clone https://github.com/grokkingsoftwareengineering/grokkingsoftwareengineering.github.io.git
+   cd grokkingsoftwareengineering.github.io
    ```
 
 2. **Open in Writerside**
@@ -44,7 +44,7 @@ Engineering Foundations provides deep, long-form technical content to combat the
 ### Project Structure
 
 ```
-engineering-foundations/
+grokkingsoftwareengineering/
 ├── .github/
 │   └── workflows/
 │       └── build-docs.yml          # GitHub Actions workflow
@@ -52,16 +52,16 @@ engineering-foundations/
 │   ├── cfg/
 │   │   └── buildprofiles.xml       # Build configuration
 │   ├── images/                     # Static assets and styling
-│   │   ├── ef-logo.svg            # Main logo
-│   │   ├── favicon.svg            # Favicon
-│   │   ├── ef-banner.svg          # Social media banner
-│   │   └── ef-styles.css          # Custom styling
+│   │   ├── gse-logo.png           # Main logo
+│   │   ├── favicon.png            # Favicon
+│   │   ├── gse-banner.svg         # Social media banner
+│   │   └── gse-styles.css         # Custom styling
 │   ├── topics/                    # All article content
 │   │   ├── Home.md                # Main landing page
 │   │   ├── Article-Template.md    # Template for new articles
 │   │   └── [topic-files].md       # 60+ topic articles
 │   ├── c.list                     # Categories configuration
-│   ├── ef.tree                    # Main navigation structure
+│   ├── gse.tree                   # Main navigation structure
 │   ├── v.list                     # Variables and branding
 │   └── writerside.cfg             # Main Writerside config
 └── README.md                      # This file
@@ -135,10 +135,10 @@ For manual builds or testing:
 
 ```bash
 # Using Writerside CLI (if installed)
-writerside build --instance ef --output dist/
+writerside build --instance gse --output dist/
 
 # Or using Docker
-docker run --rm -v $(pwd):/docs jetbrains/writerside:243.22562 build --instance ef
+docker run --rm -v $(pwd):/docs jetbrains/writerside:243.22562 build --instance gse
 ```
 
 ## Analytics and Performance
@@ -164,6 +164,6 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Recognition
 
-Engineering Foundations is built by engineers, for engineers. Special thanks to all contributors who help build this comprehensive resource for the software engineering community.
+GrokkingSoftwareEngineering is built by engineers, for engineers. Special thanks to all contributors who help build this comprehensive resource for the software engineering community.
 
 **Together, we're combating brain rot through quality technical education.**

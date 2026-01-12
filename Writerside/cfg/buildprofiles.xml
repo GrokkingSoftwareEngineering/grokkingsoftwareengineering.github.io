@@ -5,26 +5,26 @@
 
     <variables>
         <primary-color>#1a365d</primary-color>
-        <custom-css>ef-styles.css</custom-css>
-        <logo>images/ef-logo.svg</logo>
-        <favicon>images/favicon.svg</favicon>
-        <apple-touch-icon>images/apple-touch-icon.svg</apple-touch-icon>
-        <banner-image>images/ef-banner.svg</banner-image>
-        <footer-copyright>© 2024 Engineering Foundations. Combating brain rot through comprehensive software engineering education.</footer-copyright>
+        <custom-css>gse-styles.css</custom-css>
+        <logo>images/gse-logo.png</logo>
+        <favicon>images/favicon.png</favicon>
+        <apple-touch-icon>images/apple-touch-icon.png</apple-touch-icon>
+        <banner-image>images/gse-banner.svg</banner-image>
+        <footer-copyright>© 2024 GrokkingSoftwareEngineering. Combating brain rot through comprehensive software engineering education.</footer-copyright>
         <enable-blog-mode>true</enable-blog-mode>
         <show-breadcrumbs>true</show-breadcrumbs>
         <enable-github-link>true</enable-github-link>
     </variables>
 
-    <build-profile instance="ef">
+    <build-profile instance="gse">
         <variables>
             <noindex-content>false</noindex-content>
-            <product-web-url>https://engineeringfoundations.github.io</product-web-url>
+            <product-web-url>https://grokkingsoftwareengineering.github.io</product-web-url>
             <enable-search>true</enable-search>
             <web-file-name>index.html</web-file-name>
             <enable-feedback>true</enable-feedback>
             <enable-edit-page>true</enable-edit-page>
-            <github-repository>engineeringfoundations/engineeringfoundations.github.io</github-repository>
+            <github-repository>grokkingsoftwareengineering/grokkingsoftwareengineering.github.io</github-repository>
             <github-branch>main</github-branch>
             <enable-contributors>true</enable-contributors>
             <enable-last-modified>true</enable-last-modified>

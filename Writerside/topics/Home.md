@@ -1,6 +1,6 @@
-# Engineering Foundations
+# GrokkingSoftwareEngineering
 
-Welcome to **Engineering Foundations** — a long-form, anti-brain-rot learning path for serious software engineering study. The goal is depth, clarity, and durable understanding rather than quick tips.
+Welcome to **GrokkingSoftwareEngineering** — a long-form, anti-brain-rot learning path for serious software engineering study. The goal is depth, clarity, and durable understanding rather than quick tips.
 
 Created and maintained by [Siddhardha Tagirisa](https://www.linkedin.com/in/siddhardha-tagirisa/) ([My GitHub](http://github.com/sidtagirisa/)).
 

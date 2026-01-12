@@ -7,189 +7,189 @@
     </rule>
     -->
     <rule id="7f4f5e23">
-        <description>Created after removal of "Engineering Foundations" from Engineering Foundations</description>
+        <description>Created after removal of "GrokkingSoftwareEngineering" from GrokkingSoftwareEngineering</description>
         <accepts>Home.html</accepts>
     </rule>
     <rule id="4973687">
-        <description>Created after removal of "Programming Basics" from Engineering Foundations</description>
+        <description>Created after removal of "Programming Basics" from GrokkingSoftwareEngineering</description>
         <accepts>Programming-Basics.html</accepts>
     </rule>
     <rule id="4ff0e110">
         <description>
-            <![CDATA[Created after removal of "Data Structures & Algorithms" from Engineering Foundations]]></description>
+            <![CDATA[Created after removal of "Data Structures & Algorithms" from GrokkingSoftwareEngineering]]></description>
         <accepts>Data-Structures-Algorithms.html</accepts>
     </rule>
     <rule id="365ae3b5">
-        <description>Created after removal of "Advanced Trees and Index Structures" from Engineering Foundations
+        <description>Created after removal of "Advanced Trees and Index Structures" from GrokkingSoftwareEngineering
         </description>
         <accepts>Advanced-Trees-Indexes.html</accepts>
     </rule>
     <rule id="54f3ca4a">
         <description>
-            <![CDATA[Created after removal of "Asymptotic Notation & Complexity" from Engineering Foundations]]></description>
+            <![CDATA[Created after removal of "Asymptotic Notation & Complexity" from GrokkingSoftwareEngineering]]></description>
         <accepts>Asymptotic-Notation-Complexity.html</accepts>
     </rule>
     <rule id="816b6f6">
-        <description>Created after removal of "Sorting and Searching Algorithms" from Engineering Foundations
+        <description>Created after removal of "Sorting and Searching Algorithms" from GrokkingSoftwareEngineering
         </description>
         <accepts>Sorting-Searching-Algorithms.html</accepts>
     </rule>
     <rule id="301f605d">
-        <description>Created after removal of "Graph Algorithms" from Engineering Foundations</description>
+        <description>Created after removal of "Graph Algorithms" from GrokkingSoftwareEngineering</description>
         <accepts>Graph-Algorithms.html</accepts>
     </rule>
     <rule id="18109701">
-        <description>Created after removal of "Classic Algorithmic Problems" from Engineering Foundations</description>
+        <description>Created after removal of "Classic Algorithmic Problems" from GrokkingSoftwareEngineering</description>
         <accepts>Algorithmic-Problems.html</accepts>
     </rule>
     <rule id="26229e2b">
-        <description>Created after removal of "Advanced Problem-Solving Patterns" from Engineering Foundations
+        <description>Created after removal of "Advanced Problem-Solving Patterns" from GrokkingSoftwareEngineering
         </description>
         <accepts>Advanced-Problem-Solving-Patterns.html</accepts>
     </rule>
     <rule id="69611c77">
-        <description>Created after removal of "String Algorithms" from Engineering Foundations</description>
+        <description>Created after removal of "String Algorithms" from GrokkingSoftwareEngineering</description>
         <accepts>String-Algorithms.html</accepts>
     </rule>
     <rule id="76e9af33">
-        <description>Created after removal of "Data Representation" from Engineering Foundations</description>
+        <description>Created after removal of "Data Representation" from GrokkingSoftwareEngineering</description>
         <accepts>Data-Representation.html</accepts>
     </rule>
     <rule id="342f7770">
-        <description>Created after removal of "Software Design Patterns" from Engineering Foundations</description>
+        <description>Created after removal of "Software Design Patterns" from GrokkingSoftwareEngineering</description>
         <accepts>Software-Design-Patterns.html</accepts>
     </rule>
     <rule id="ef7835f">
-        <description>Created after removal of "Architectural Styles" from Engineering Foundations</description>
+        <description>Created after removal of "Architectural Styles" from GrokkingSoftwareEngineering</description>
         <accepts>Architectural-Styles.html</accepts>
     </rule>
     <rule id="5d673721">
-        <description>Created after removal of "UML Diagrams" from Engineering Foundations</description>
+        <description>Created after removal of "UML Diagrams" from GrokkingSoftwareEngineering</description>
         <accepts>UML-Diagrams.html</accepts>
     </rule>
     <rule id="3f24f966">
-        <description>Created after removal of "Object-Oriented Programming" from Engineering Foundations</description>
+        <description>Created after removal of "Object-Oriented Programming" from GrokkingSoftwareEngineering</description>
         <accepts>Object-Oriented-Programming.html</accepts>
     </rule>
     <rule id="7aa6a46f">
-        <description>Created after removal of "Functional Programming" from Engineering Foundations</description>
+        <description>Created after removal of "Functional Programming" from GrokkingSoftwareEngineering</description>
         <accepts>Functional-Programming.html</accepts>
     </rule>
     <rule id="ef5d891">
-        <description>Created after removal of "Mathematics for Engineers" from Engineering Foundations</description>
+        <description>Created after removal of "Mathematics for Engineers" from GrokkingSoftwareEngineering</description>
         <accepts>Mathematics-for-Engineers.html</accepts>
     </rule>
     <rule id="2178a445">
-        <description>Created after removal of "Discrete Mathematics for Computer Science" from Engineering Foundations
+        <description>Created after removal of "Discrete Mathematics for Computer Science" from GrokkingSoftwareEngineering
         </description>
         <accepts>Discrete-Mathematics.html</accepts>
     </rule>
     <rule id="2da34149">
-        <description>Created after removal of "Complexity Classes" from Engineering Foundations</description>
+        <description>Created after removal of "Complexity Classes" from GrokkingSoftwareEngineering</description>
         <accepts>Complexity-Classes.html</accepts>
     </rule>
     <rule id="31f5f812">
-        <description>Created after removal of "Networking Fundamentals" from Engineering Foundations</description>
+        <description>Created after removal of "Networking Fundamentals" from GrokkingSoftwareEngineering</description>
         <accepts>Networking-Fundamentals.html</accepts>
     </rule>
     <rule id="31eb7cdb">
-        <description>Created after removal of "Network Protocols and Models" from Engineering Foundations</description>
+        <description>Created after removal of "Network Protocols and Models" from GrokkingSoftwareEngineering</description>
         <accepts>Network-Protocols.html</accepts>
     </rule>
     <rule id="629d0436">
-        <description>Created after removal of "Network Programming" from Engineering Foundations</description>
+        <description>Created after removal of "Network Programming" from GrokkingSoftwareEngineering</description>
         <accepts>Network-Programming.html</accepts>
     </rule>
     <rule id="479625b1">
-        <description>Created after removal of "Database Design" from Engineering Foundations</description>
+        <description>Created after removal of "Database Design" from GrokkingSoftwareEngineering</description>
         <accepts>Database-Design.html</accepts>
     </rule>
     <rule id="410725cc">
-        <description>Created after removal of "Database Systems" from Engineering Foundations</description>
+        <description>Created after removal of "Database Systems" from GrokkingSoftwareEngineering</description>
         <accepts>Database-Systems.html</accepts>
     </rule>
     <rule id="678a8c34">
-        <description>Created after removal of "System Design Fundamentals" from Engineering Foundations</description>
+        <description>Created after removal of "System Design Fundamentals" from GrokkingSoftwareEngineering</description>
         <accepts>System-Design-Fundamentals.html</accepts>
     </rule>
     <rule id="18548454">
         <description>
-            <![CDATA[Created after removal of "Scalability & Performance" from Engineering Foundations]]></description>
+            <![CDATA[Created after removal of "Scalability & Performance" from GrokkingSoftwareEngineering]]></description>
         <accepts>Scalability-Performance.html</accepts>
     </rule>
     <rule id="45665d3e">
-        <description>Created after removal of "Caching Strategies" from Engineering Foundations</description>
+        <description>Created after removal of "Caching Strategies" from GrokkingSoftwareEngineering</description>
         <accepts>Caching-Strategies.html</accepts>
     </rule>
     <rule id="58984f06">
-        <description>Created after removal of "CAP and PACELC Theorems" from Engineering Foundations</description>
+        <description>Created after removal of "CAP and PACELC Theorems" from GrokkingSoftwareEngineering</description>
         <accepts>CAP-PACELC.html</accepts>
     </rule>
     <rule id="620befea">
-        <description>Created after removal of "Distributed Systems" from Engineering Foundations</description>
+        <description>Created after removal of "Distributed Systems" from GrokkingSoftwareEngineering</description>
         <accepts>Distributed-Systems.html</accepts>
     </rule>
     <rule id="6ffb933c">
-        <description>Created after removal of "Microservices Architecture" from Engineering Foundations</description>
+        <description>Created after removal of "Microservices Architecture" from GrokkingSoftwareEngineering</description>
         <accepts>Microservices-Architecture.html</accepts>
     </rule>
     <rule id="46485aae">
         <description>
-            <![CDATA[Created after removal of "Message Queues & Event Streaming" from Engineering Foundations]]></description>
+            <![CDATA[Created after removal of "Message Queues & Event Streaming" from GrokkingSoftwareEngineering]]></description>
         <accepts>Message-Queues-Event-Streaming.html</accepts>
     </rule>
     <rule id="565d2f23">
-        <description>Created after removal of "Cloud Design Patterns" from Engineering Foundations</description>
+        <description>Created after removal of "Cloud Design Patterns" from GrokkingSoftwareEngineering</description>
         <accepts>Cloud-Design-Patterns.html</accepts>
     </rule>
     <rule id="7ad9d43">
-        <description>Created after removal of "Performance Anti-Patterns" from Engineering Foundations</description>
+        <description>Created after removal of "Performance Anti-Patterns" from GrokkingSoftwareEngineering</description>
         <accepts>Performance-Anti-Patterns.html</accepts>
     </rule>
     <rule id="9895f95">
-        <description>Created after removal of "API Design Fundamentals" from Engineering Foundations</description>
+        <description>Created after removal of "API Design Fundamentals" from GrokkingSoftwareEngineering</description>
         <accepts>API-Design-Fundamentals.html</accepts>
     </rule>
     <rule id="5c9d3096">
         <description>
-            <![CDATA[Created after removal of "REST & GraphQL APIs" from Engineering Foundations]]></description>
+            <![CDATA[Created after removal of "REST & GraphQL APIs" from GrokkingSoftwareEngineering]]></description>
         <accepts>REST-GraphQL-APIs.html</accepts>
     </rule>
     <rule id="445520a9">
-        <description>Created after removal of "Security Fundamentals" from Engineering Foundations</description>
+        <description>Created after removal of "Security Fundamentals" from GrokkingSoftwareEngineering</description>
         <accepts>Security-Fundamentals.html</accepts>
     </rule>
     <rule id="11f76ba3">
-        <description>Created after removal of "Cryptography Fundamentals" from Engineering Foundations</description>
+        <description>Created after removal of "Cryptography Fundamentals" from GrokkingSoftwareEngineering</description>
         <accepts>Cryptography-Fundamentals.html</accepts>
     </rule>
     <rule id="139b7b47">
-        <description>Created after removal of "Web Security" from Engineering Foundations</description>
+        <description>Created after removal of "Web Security" from GrokkingSoftwareEngineering</description>
         <accepts>Web-Security.html</accepts>
     </rule>
     <rule id="7bf9c6e">
-        <description>Created after removal of "How Computers Work" from Engineering Foundations</description>
+        <description>Created after removal of "How Computers Work" from GrokkingSoftwareEngineering</description>
         <accepts>How-Computers-Work.html</accepts>
     </rule>
     <rule id="26b1305a">
-        <description>Created after removal of "Computer Architecture" from Engineering Foundations</description>
+        <description>Created after removal of "Computer Architecture" from GrokkingSoftwareEngineering</description>
         <accepts>Computer-Architecture.html</accepts>
     </rule>
     <rule id="18d68831">
-        <description>Created after removal of "Operating Systems" from Engineering Foundations</description>
+        <description>Created after removal of "Operating Systems" from GrokkingSoftwareEngineering</description>
         <accepts>Operating-Systems.html</accepts>
     </rule>
     <rule id="69376d75">
-        <description>Created after removal of "Concurrency and Synchronization" from Engineering Foundations
+        <description>Created after removal of "Concurrency and Synchronization" from GrokkingSoftwareEngineering
         </description>
         <accepts>Concurrency-Synchronization.html</accepts>
     </rule>
     <rule id="49f5f13d">
-        <description>Created after removal of "Memory Management" from Engineering Foundations</description>
+        <description>Created after removal of "Memory Management" from GrokkingSoftwareEngineering</description>
         <accepts>Memory-Management.html</accepts>
     </rule>
     <rule id="58ba3145">
-        <description>Created after removal of "Real-Time Communication" from Engineering Foundations</description>
+        <description>Created after removal of "Real-Time Communication" from GrokkingSoftwareEngineering</description>
         <accepts>Real-Time-Communication.html</accepts>
     </rule>
 </rules>
