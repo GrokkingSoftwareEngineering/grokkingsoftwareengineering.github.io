@@ -7,8 +7,7 @@
         <primary-color>#0D9488</primary-color>
         <custom-css>gse-styles.css</custom-css>
         <logo>images/gse-logo.png</logo>
-        <favicon>images/favicon.png</favicon>
-        <apple-touch-icon>images/apple-touch-icon.png</apple-touch-icon>
+        <custom-favicons>favicon-16.png,favicon-32.png,favicon-64.png</custom-favicons>
         <banner-image>images/gse-banner.svg</banner-image>
         <footer-copyright>© 2024 GrokkingSoftwareEngineering. Combating brain rot through comprehensive software engineering education.</footer-copyright>
         <enable-blog-mode>true</enable-blog-mode>
