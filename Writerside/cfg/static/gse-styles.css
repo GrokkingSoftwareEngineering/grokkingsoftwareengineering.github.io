@@ -1,0 +1,103 @@
+/* GrokkingSoftwareEngineering Custom Styles */
+/* Combating brain rot through thoughtful design and deep content */
+
+/* ==========================================================================
+   LIGHT THEME (Default)
+   ========================================================================== */
+
+:root {
+    /* Primary Brand Colors - Teal palette */
+    --gse-primary: #0D9488;          /* Teal - fresh, technical, sharp */
+    --gse-primary-light: #14B8A6;    /* Lighter teal */
+    --gse-primary-dark: #0F766E;     /* Darker teal */
+
+    /* Secondary Colors - complementary */
+    --gse-secondary: #0891B2;        /* Cyan - depth, clarity */
+    --gse-accent: #10B981;           /* Emerald - growth, success */
+    --gse-warning: #F59E0B;          /* Amber - attention, energy */
+
+    /* Typography */
+    --gse-font-serif: 'Georgia', 'Times New Roman', serif;
+    --gse-font-sans: 'Inter', 'Segoe UI', 'Roboto', sans-serif;
+    --gse-font-mono: 'JetBrains Mono', 'Fira Code', 'Monaco', monospace;
+
+    /* Spacing for deep reading */
+    --gse-reading-width: 75ch;
+    --gse-line-height: 1.7;
+}
+
+/* Global Typography - Optimized for Long-Form Reading */
+body {
+    font-family: var(--gse-font-sans);
+    line-height: var(--gse-line-height);
+}
+
+/* Code Blocks - Essential for Engineering Content */
+pre, code {
+    font-family: var(--gse-font-mono);
+    border-radius: 6px;
+}
+
+pre {
+    padding: 1.5rem;
+    overflow-x: auto;
+    border-left: 4px solid var(--gse-accent);
+}
+
+code {
+    padding: 0.25rem 0.5rem;
+    font-size: 0.9em;
+}
+
+/* Headers with Brand Colors */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    line-height: 1.3;
+}
+
+
+/* ==========================================================================
+   HIDE WRITERSIDE BRANDING
+   ========================================================================== */
+
+.footer__powered {
+    display: none !important;
+}
+
+/* ==========================================================================
+   RESPONSIVE DESIGN
+   ========================================================================== */
+
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2rem;
+    }
+
+    h2 {
+        font-size: 1.5rem;
+    }
+}
+
+/* ==========================================================================
+   PRINT STYLES
+   ========================================================================== */
+
+@media print {
+    * {
+        background: none !important;
+        color: black !important;
+        box-shadow: none !important;
+    }
+
+    nav, .wh-sidebar, .wh-toc, footer {
+        display: none !important;
+    }
+
+    h1, h2, h3 {
+        page-break-after: avoid;
+    }
+
+    pre, blockquote {
+        page-break-inside: avoid;
+    }
+}

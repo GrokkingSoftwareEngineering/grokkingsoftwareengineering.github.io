@@ -4,7 +4,7 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
-        <primary-color>#1a365d</primary-color>
+        <primary-color>#0D9488</primary-color>
         <custom-css>gse-styles.css</custom-css>
         <logo>images/gse-logo.png</logo>
         <favicon>images/favicon.png</favicon>
